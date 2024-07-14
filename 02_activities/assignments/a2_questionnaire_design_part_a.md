@@ -16,30 +16,74 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+```The purpose of this survey is to gather feedback from current employees’ expectations and aspirations across all departments. The obtained information will aid in future decisions to maintain staff and enhance their satisfactions with the organization.
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: all employees of XYZ
+Frame population = all employees who completed the optional survey
+
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+The purpose of this survey is to collect feedback on your satisfaction as an employee. This is 3-5 minutes and will provide important information to improve employees’ experiences.
+
+1. How long have you been working for XYZ?
+    • Less the one year
+    • from 2 -4 years
+    • from 5-7 years
+    • from 8+ years
+
+2. In general, what is the most important aspect of a job?
+    • work balance
+    • career advancement
+    • vacation 
+    • benefits package
+    • positive work environment
+
+3. What is the range of your annual salary?
+    • $35 – 55K
+    • $56 – 74K
+    • $75 – 96K
+    • $97+
+
+4. What do you like most about your job? Please choose from the list below in order of importance.
+    • your current role
+    • the schedule
+    • the salary
+    • hours of work
+    • your team
+    • vacation time
+    • benefits package
+
+5. What do you like least? What is not working well?
+    • your current role
+    • the schedule
+    • the salary
+    • hours of work
+    • your team
+    • vacation time
+    • benefits package
+
+6. Do you feel you have the necessary training, supervision and support to accomplish your job?
+    ◦ yes
+    ◦ slightly
+    ◦ not all
+      
+7. Did you feel you received adequate training with respect to your corporate, department responsibilities and training in terms of your own safety
+    ◦ yes
+    ◦ slightly
+    ◦ not all
+
+8. Please use this space to share what are the challenges and any suggestions for changes. This could include our processes, training, communications, etc.
+
+Thank you for taking the time to share your experience with us!
+
 ```
 
 ## Rubric
