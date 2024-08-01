@@ -17,14 +17,21 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 # Your Changes
 
 The number of your chosen topic: `#1`
+1.	You work in the Human Resources Department at a large tech company. Over the past few months, the company has been experiencing a high turnover rate across many of its departments, specifically within the entry- and lower-level positions. The company wishes to understand why this turnover is happening, and what changes need to occur to improve employee satisfaction.
 
 Describe the purpose of your survey:
-```The purpose of this survey is to gather feedback from current employees’ expectations and aspirations across all departments. The obtained information will aid in future decisions to maintain staff and enhance their satisfactions with the organization.
+```The purpose of this survey is to gather feedback from current employees’ expectations and aspirations across all departments. It aims also to identify key factors contributing to employee dissatisfaction and departure, enabling the company to implement targeted changes to staff retention and employee satisfaction with their jobs and the organization. 
+```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-Target population: all employees of XYZ
-Frame population = all employees who completed the optional survey
+Target population: The target population consists of all employees in the entry- and lower-level positions accross various departments with the company. 
+
+Sampling frame: The sampling frame is a comprehensive list of all entry- and lower-level employees who have workerd at the company in the past few months, including both current and former employess.
+
+Sampling units: The sampling units are individual employees in entry- and lower-level positions, both current and former.
+
+Overall sampling strategy: Considering the objective of understanding factors contributing to turnover and dissatisfaction, the stratified random sampling seems to be the most appropriate strategy. This involves spliting the sampling into strata based on department, time of employment, or status(i.e. current vs former employees). Then drawning a ramdom sample from each stratum. This ensures that different segments of the population are adequately represented, allowing insights of the issues across various groups.
 
 
 ```
