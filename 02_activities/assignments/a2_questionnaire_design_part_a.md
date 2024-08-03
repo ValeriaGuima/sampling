@@ -16,30 +16,81 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
+1.	You work in the Human Resources Department at a large tech company. Over the past few months, the company has been experiencing a high turnover rate across many of its departments, specifically within the entry- and lower-level positions. The company wishes to understand why this turnover is happening, and what changes need to occur to improve employee satisfaction.
 
 Describe the purpose of your survey:
-```
-write your answer here...
+```The purpose of this survey is to gather feedback from current employees’ expectations and aspirations across all departments. It aims also to identify key factors contributing to employee dissatisfaction and departure, enabling the company to implement targeted changes to staff retention and employee satisfaction with their jobs and the organization. 
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: The target population consists of all employees in the entry- and lower-level positions accross various departments with the company. 
+
+Sampling frame: The sampling frame is a comprehensive list of all entry- and lower-level employees who have workerd at the company in the past few months, including both current and former employess.
+
+Sampling units: The sampling units are individual employees in entry- and lower-level positions, both current and former.
+
+Overall sampling strategy: Considering the objective of understanding factors contributing to turnover and dissatisfaction, the stratified random sampling seems to be the most appropriate strategy. This involves spliting the sampling into strata based on department, time of employment, or status(i.e. current vs former employees). Then drawning a ramdom sample from each stratum. This ensures that different segments of the population are adequately represented, allowing insights of the issues across various groups.
+
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+The purpose of this survey is to collect feedback on your satisfaction as an employee. This is 3-5 minutes and will provide important information to improve employees’ experiences.
+
+1. How long have you been working for XYZ?
+    • Less the one year
+    • from 2 -4 years
+    • from 5-7 years
+    • from 8+ years
+
+2. In general, what is the most important aspect of a job?
+    • work balance
+    • career advancement
+    • vacation 
+    • benefits package
+    • positive work environment
+
+3. What is the range of your annual salary?
+    • $35 – 55K
+    • $56 – 74K
+    • $75 – 96K
+    • $97+
+
+4. What do you like most about your job? Please choose from the list below in order of importance.
+    • your current role
+    • the schedule
+    • the salary
+    • hours of work
+    • your team
+    • vacation time
+    • benefits package
+
+5. What do you like least? What is not working well?
+    • your current role
+    • the schedule
+    • the salary
+    • hours of work
+    • your team
+    • vacation time
+    • benefits package
+
+6. Do you feel you have the necessary training, supervision and support to accomplish your job?
+    ◦ yes
+    ◦ slightly
+    ◦ not all
+      
+7. Did you feel you received adequate training with respect to your corporate, department responsibilities and training in terms of your own safety
+    ◦ yes
+    ◦ slightly
+    ◦ not all
+
+8. Please use this space to share what are the challenges and any suggestions for changes. This could include our processes, training, communications, etc.
+
+Thank you for taking the time to share your experience with us!
+
 ```
 
 ## Rubric
